@@ -1,0 +1,15 @@
+header{
+    text-align: center;
+    text-decoration:dotted;
+    font-style: oblique;
+    font-size: large;
+}
+.h{
+    text-decoration: double;
+}
+.t{
+    font-style: normal;
+}
+.p{
+    margin: 10px;
+}
